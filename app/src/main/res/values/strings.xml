@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TSDMHP1E4AMG</string>
+    <string name="P1t1">Test de Preguntas</string>
+    <string name="P1pre1">¿Donde usas internet?</string>
+    <string name="P1CH1">Casa</string>
+    <string name="P1CH2">Escuela</string>
+    <string name="P1CH3">Sitio publico</string>
+    <string name="p1radio1">HOMBRE</string>
+    <string name="p1radio2">MUJER</string>
+    <string name="p1radio3">NO DECIRLO</string>
+    <string name="genero">GENERO</string>
+    <string name="p1pre3">ESTADO DE ORIGEN</string>
+
+    <string-array name="Estados">
+        <item>Edo Mex</item>
+        <item>Nayarit</item>
+        <item>Monterrey</item>
+        <item>Coahuila</item>
+        <item>Guadalajara</item>
+        <item>CDMX</item>
+    </string-array>
+</resources>
